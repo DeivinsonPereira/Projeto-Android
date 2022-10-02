@@ -98,7 +98,7 @@ main a{
     background-color: var(--cor1);
 }
 main a::after{
-    content:'\1F517\00A0\00A0';
+    content:'\00A0\1F517';
 }
 main a:hover{
     text-decoration: underline;
