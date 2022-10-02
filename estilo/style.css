@@ -48,7 +48,7 @@ header h1{
     font-weight: normal;
 }
 header p{
-    max-width: 300px;
+    max-width: 350px;
     margin: auto;
 }
 nav{
@@ -88,6 +88,7 @@ article h2{
 main p{
     text-align: justify;
     font-size: 1.1em;
+    max-width: 350px;
 }
 main a{
     text-decoration: none;
