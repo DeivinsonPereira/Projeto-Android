@@ -30,7 +30,7 @@ body{
     background-color: var(--cor1);
 }
 body p{
-    text-indent: 30px;
+    text-indent: 15px;
 }
 strong{
     color: var(--cor4);
@@ -58,7 +58,7 @@ nav{
     padding: 15px;
 }
 nav a{
-    padding: 10px;
+    padding: 5px;
     color: white;
     text-decoration: none;
     font-weight: bold;
