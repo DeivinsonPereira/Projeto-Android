@@ -49,7 +49,7 @@ header h1{
     font-weight: normal;
 }
 header p{
-    max-width: 350px;
+    max-width: 400px;
     margin: auto;
 }
 nav{
@@ -69,7 +69,7 @@ nav a:hover{
 }
 main{
     max-width: 800px;
-    min-width: 300px;
+    min-width: 400px;
     margin: auto;
     background-color: white;
     padding: 20px;
@@ -89,7 +89,6 @@ article h2{
 main p{
     text-align: justify;
     font-size: 1.1em;
-    max-width: 350px;
 }
 main a{
     text-decoration: none;
